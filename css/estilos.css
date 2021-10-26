@@ -1,0 +1,32 @@
+body, div{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: gainsboro;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+canvas{
+    border: 1px solid #000;
+}
+.editor{
+    background: #fff;
+    width: fit-content;
+    margin: auto;
+    margin-top: 50px;
+}
+.paleta{
+    background-color: #000;
+}
+#color{
+    background-color: #000;
+}
+#lw{
+    width: 420px;
+}
+.titulo{
+    width: fit-content;
+    margin: auto;
+    margin-top: 50px;
+    color: #37c;
+}
